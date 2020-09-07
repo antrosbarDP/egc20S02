@@ -14,5 +14,5 @@ python:
 install:
   - pip install -r requirements.txt
 script:
-  - ./manage.py test
+  - ./manage.py test census
  
